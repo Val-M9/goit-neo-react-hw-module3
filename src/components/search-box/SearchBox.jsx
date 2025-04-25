@@ -1,4 +1,4 @@
-import styles from './search-box.module.css'
+import styles from './SearchBox.module.css'
 
 const SearchBox = ({ onSearch, searchValue }) => {
   return (

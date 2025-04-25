@@ -1,6 +1,6 @@
 import { FaUser } from 'react-icons/fa6'
 import { FaPhone } from 'react-icons/fa6'
-import styles from './contact.module.css'
+import styles from './Contact.module.css'
 
 const Contact = ({ id, name, number, onDeleteRecord }) => {
   const onDelete = () => {
